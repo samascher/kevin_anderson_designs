@@ -1,5 +1,6 @@
 body {
 	background: black;
-	font-color: white;
-	font: 100 60px/1.5 Helvetica, Verdana, sans-serif;
+	color: white;
+	font: 100 30px/1.5 Helvetica, Verdana, sans-serif;
+	text-align: center;
 }
